@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BluetoothApp</string>
+    <string name="devices_title">Devices</string>
+    <string name="bluetooth">Nearby Bluetooth Devices</string>
+</resources>
