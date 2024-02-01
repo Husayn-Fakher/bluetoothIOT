@@ -68,4 +68,4 @@ Follow these steps to build and run the application:
 ## Testing
 
 - **Unit Tests:** Utilize JUnit for unit tests.
-- **Instrumented Tests:** Challenges faced and solved with Bluetooth permissions tested on Android 11.0 device.
+- **Instrumented Tests:** Challenges faced and solved with Bluetooth permissions. Tested on Android 11.0 device.
