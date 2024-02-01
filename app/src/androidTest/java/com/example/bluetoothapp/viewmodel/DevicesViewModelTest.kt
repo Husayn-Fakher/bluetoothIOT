@@ -18,7 +18,7 @@ import org.junit.Test
 import javax.inject.Inject
 
 @HiltAndroidTest
-ls
+@UninstallModules(RepositoryModule::class)
 class DevicesViewModelTest {
 
     @get:Rule
